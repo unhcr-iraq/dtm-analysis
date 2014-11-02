@@ -1,0 +1,28 @@
+LOCATION,Governorate,ID_CAMP,LOCATION_T,Status,LATITUDE,LONGITUDE,plancapacity,AREA_sqm,Individual
+Agricultural Research I,Dahuk,da-idp-5,IDPs Camps,Under Development,37.090867,42.669367,18840,750000,1
+Agricultural Research II,Dahuk,da-idp-9,IDPs Camps,Under Development,37.089,42.66838,18840,0,1
+Aradan,Dahuk,da-idp-16,IDPs Camps,Suggested Camp Location,37.10894,43.31806, ,0,1
+Bamarne,Dahuk,da-idp-13,IDPs Camps,Suggested Camp Location,37.12162,43.27194,5880,220586,1
+Bersive I,Dahuk,da-idp-3,IDPs Camps,Under Development,37.1895,42.8549,15000,375000,1
+Bersive II,Dahuk,da-idp-4,IDPs Camps,Under Development,37.1798,42.85398,10920,492329,1
+Deraboun area,Dahuk,da-idp-6,IDPs Camps,Open,37.08424,42.4279,1728,0,1
+Girsheen,Dahuk,da-idp-12,IDPs Camps,Suggested Camp Location,37.026972,42.659806,23334,875000,1
+Kabarto,Dahuk,da-idp-14,IDPs Camps,Suggested Camp Location,36.793583,42.862,20040,1000000,1
+Khadia,Dahuk,da-idp-15,IDPs Camps,Suggested Camp Location,37.0603,42.618683,28566,1000000,1
+Khanke 1,Dahuk,da-idp-10,IDPs Camps,Open,36.76,42.76,8016,300206,1
+Khanke 2,Dahuk,da-idp-8,IDPs Camps,Under Development,36.781722,42.777056,11520,300206,1
+Sharya,Dahuk,da-idp-7,IDPs Camps,Under Development,36.793444,42.967528,24000,666036,1
+Garmawa,Ninewa,ni-idp-11,IDPs Camps,Open,36.6911,43.1425,7650,286882,1
+Bajet Kandala 2,Dahuk,da-idp-1,IDPs Camps,Open,37.0533,42.4522,5760,248000,1
+Bajet Kandala 1,Dahuk,da-idp-2,IDPs Camps,Open,37.0333,42.4834,9000,243000,1
+Ainkawa Municipality,Erbil,er-idp-3,IDPs Camps,Under Development,36.227658,43.993932,4000,351952,1
+Ainkawa MODM,Erbil,er-idp-5,IDPs Camps,Under Development,36.243583,43.996617,1500,1880,1
+Baharka New,Erbil,er-idp-2,IDPs Camps,Under Development,36.305733,43.983333,6000,89087,1
+Baharka Old,Erbil,er-idp-1,IDPs Camps,Open,36.300653,44.021577,3300,0,1
+Agriculture Land,Erbil,er-idp-4,IDPs Camps,Under Development,36.257983,43.996767,1800,62500,1
+Arbat IDP Camp,Sulaymaniyah,su-idp-3,IDPs Camps,Open,35.42241,45.58003,6000,0,1
+"Mizafer,Chamchamal",Sulaymaniyah,su-idp-1,IDPs Camps,Under Development,35.477444,44.784858,6000,262500,1
+"Qoratu, Kalar",Sulaymaniyah,su-idp-2,IDPs Camps,Under Development,34.544193,45.390722,6000,46285,1
+"Sulaimaniyah City (Sitak, Zirgus)",Sulaymaniyah,su-idp-4,IDPs Camps,Under Development,35.636,45.516,2400,0,1
+Basijan,Sulaymaniyah,su-idp-5,IDPs Camps,Under Development,35.49472,44.97115,1000,0,1
+

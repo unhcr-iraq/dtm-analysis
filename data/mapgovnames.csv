@@ -1,0 +1,20 @@
+Governorate.dtm,governorate.census,Governorate.progres,Governorate.shp,short,Longitude_c,Latitude_c,kri,Province, HASC, FIPS, Population, Capital, Postal
+Anbar,Muhafazat al-Anbar,Anbar,Anbar,AN,41.6158587934,32.9738097989,no,Al-Anbar, IQ.AN, IZ01,1023776, Ar-Ramadi,31
+Babylon,Muhafazat Babylon,Babylon,Babylon,BB,44.5990466985,32.531128293,no,Babil, IQ.BB, IZ06,1181751, Al-Hillah,51
+Baghdad,Muhafazat Baghdad,Baghdad,Baghdad,BG,44.4001199881,33.2767646424,no,Baghdad, IQ.BG, IZ07,5423964, Baghdad,10
+Basrah,Muhafazat Basrah,Basrah,Basrah,BA,47.4093337069,30.3881641805,no,Al-Basrah, IQ.BA, IZ02,1556445, Al-Basrah,61
+Diyala,Muhafazat Diala,Diyala,Diyala,DI,45.1036095806,33.962134647,no,Diyala, IQ.DI, IZ10,1135223, Ba'qubah,32
+Dahuk,Muhafazat Duhouk,Duhok,Dahuk,DA,43.1387398479,37.0625791353,yes,Dahuk, IQ.DA, IZ08,402970, Dahuk,42
+Erbil,Muhafazat Erbil,Erbil,Erbil,AR,44.1898607577,36.3094934767,yes,Arbil, IQ.AR, IZ11,1095992, Arbil,44
+Kerbala,Muhafazat Kerbela,Kerbala,Kerbala,KA,43.8199252761,32.5084080707,no,Karbala', IQ.KA, IZ12,594235, Karbala',56
+Kirkuk,Muhafazat Kirkuk,Kirkuk,Kirkuk,KI,44.1574054903,35.3213108663,no,Kirkuk, IQ.TS, IZ13,753171, Kirkuk,36
+Missan,Muhafazat Maysan,Missan,Missan,MA,47.0549226852,31.8996425495,no,Maysan, IQ.MA, IZ14,637126, Al-Amarah,62
+,Muhafazat al-Muthanna,,Muthanna,MU,45.3825817967,30.1897858193,no,Al-Muthanna, IQ.MU, IZ03,436825, As-Samawah,66
+Najaf,Muhafazat al-Najaf,Najaf,Najaf,NJ,43.8160561008,31.1277982639,no,An-Najaf, IQ.NA, IZ17,775042, An-Najaf,54
+Ninewa,Muhafazat Nineveh,Ninewa,Ninewa,NI,42.482810608,36.023198616,no,Ninawa, IQ.NI, IZ15,2042852, Mosul,41
+Qadissiya,Muhafazat al-Qadisiya,Qadissiya,Qadissiya,QA,45.06586598,31.8717691175,no,Al-Qadisiyah, IQ.QA, IZ04,751331, Ad-Diwaniyah,58
+Salah al-Din,Muhafazat Salah al-Deen,Salah al-Din,Salah al-Din,SD,43.6224285064,34.5557122224,no,Salah ad-Din, IQ.SD, IZ18,904432, Tikrit,34
+Sulaymaniyah,Muhafazat al-Sulaimaniya,Sulaymaniyah,Sulaymaniyah,SL,45.3177569012,35.5433943994,yes,As-Sulaymaniyah, IQ.SL, IZ05,1362739, As-Sulaymaniyah,46
+Thi-Qar,Muhafazat Thi Qar,,Thi-Qar,TQ,46.3423353809,31.2093983728,no,Dhi Qar, IQ.DQ, IZ09,1184796, An-Nasiriyah,64
+Wassit,Muhafazat Wasit,Wassit,Wassit,WA,45.7302622928,32.6687264663,no,Wasit, IQ.WA, IZ16,783614, Al-Kut,52
+,,,,HA,,,yes,Halabja, IQ.HA, IZ05, , Halabja,46

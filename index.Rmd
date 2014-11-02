@@ -1,0 +1,128 @@
+ Displacement Tracking Matrix - Analysis of IDP situation in Iraq
+========================================================
+
+Based on the data currently available the objective is to build an index that will help prioritising the area of intervention for the CCM cluster.
+
+The possible calculations are:
+
+ - % of IDP hosted in communal settings / private settings 
+ - # of IDP hosted in communal setting  
+ - are idps  hosted in school building? as this has a disruptive impact on local population
+ - are idps are already in camp (compared to other communal setting)
+ - do they access services? (in priority FOOD, WATER, NFI) 
+ - what is the # of IDP in a district compared to # of refugees?
+ - # of IDP in a district compared to # of local inhabitans
+ - when IDP have been displaced ? (i.e. date of displacement -> pre-june /post-june).
+ - has the location previously received assistance
+ - has shelter been defined as one of the priority need?
+
+We will score each of the composite indicator and then apply some ponderation in order to generate a vulnerability rank for the locations.
+
+
+
+## Where are IDPs?
+
+```{r  echo=FALSE, fig.height = 8,fig.width = 12 , fig.align = 'center' }
+
+source(analysis.R)
+plotorigin
+
+```
+
+
+
+## Pattern of Arrival per month and area of asylum
+
+```{r  echo=FALSE, fig.height = 8, fig.width = 12 , fig.align = 'center' }
+plotgovmonth
+```
+
+Pattern of Arrival per month and area of origin
+
+```{r  echo=FALSE, fig.height = 8, fig.width = 12 ,fig.align = 'center' }
+plotoriginmonth
+```
+
+
+
+## 
+
+```{r  echo=FALSE, fig.height = 9, fig.width = 12  }
+mapcommunalmonthorigin
+```
+
+
+
+## 
+
+```{r  echo=FALSE, fig.height = 9, fig.width = 12 }
+mapcamphex
+```
+
+
+## 
+
+```{r  echo=FALSE, fig.height = 9, fig.width = 12}
+mapcommunalhex
+```
+
+
+
+## 
+```{r  echo=FALSE, fig.height = 9, fig.width = 12 }
+mapprioritycash
+```
+
+
+
+## 
+```{r  echo=FALSE, fig.height = 9, fig.width = 12 }
+mapprioritychild
+```
+
+
+
+## 
+```{r  echo=FALSE, fig.height = 9 , fig.width = 12}
+mappriorityfood
+```
+
+
+
+## 
+```{r  echo=FALSE, fig.height = 9, fig.width = 12 }
+mappriorityhealth
+```
+
+
+
+## 
+
+```{r  echo=FALSE, fig.height = 9 , fig.width = 12}
+mapprioritynfi
+```
+
+
+
+## 
+
+```{r  echo=FALSE, fig.height = 9 , fig.width = 12}
+mappriorityshelter
+```
+
+
+
+## 
+
+```{r  echo=FALSE, fig.height = 9, fig.width = 12 }
+mapprioritywater
+```
+
+This presentation was prepared using
+========================================================
+
+ [R statistical platform](http://www.r-project.org/) for the analysis. The script for the analysis is available on the [dtm-analysis repository](https://github.com/unhcr-iraq/dtm-analysis)
+ 
+ Displacement data collected and available for download through the [DTM](http://iomiraq.net/dtm-page)
+
+Please share your comments with UNHCR Iraq Information management Unit @ legoupil.at.unhcr.org
