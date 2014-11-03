@@ -62,7 +62,7 @@ maplevel1 <-maplevel1 + annotate("text", x = 40.4, y = 33.75, size = 3, label = 
 maplevel1 <-maplevel1 + annotate("text", x = 40.4, y = 33.5,  size = 3, label = "TQ", hjust = 0)
 maplevel1 <-maplevel1 + annotate("text", x = 40.4, y = 33.25, size = 3, label = "WA", hjust = 0)
 
-ggsave("plot/mapchoro/maplevel1.png", maplevel1, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1.png", maplevel1, width=4, height=3,units="in", dpi=300)
 
 ##########################################################
 #########################################################
@@ -132,7 +132,7 @@ maplevel1_idppop <-maplevel1_idppop + annotate("text", x = 40.8, y = 33.75, size
 maplevel1_idppop <-maplevel1_idppop + annotate("text", x = 40.8, y = 33.5,  size = 3.5, label = "TQ", hjust = 0)
 maplevel1_idppop <-maplevel1_idppop + annotate("text", x = 40.8, y = 33.25, size = 3.5, label = "WA", hjust = 0)
 
-ggsave("plot/caseload/mapgov.png", maplevel1_idppop, width=8, height=6,units="in", dpi=300)
+ggsave("plot/caseload/mapgov.png", maplevel1_idppop, width=4, height=3,units="in", dpi=300)
 
 
 ###########################################
@@ -189,7 +189,7 @@ maplevel1_idppop <-maplevel1_idppop + annotate("text", x = 40.4, y = 33.5,  size
 maplevel1_idppop <-maplevel1_idppop + annotate("text", x = 40.4, y = 33.25, size = 3, label = "WA", hjust = 0)
 
 
-ggsave("plot/mapchoro/maplevel1_idppop.png", maplevel1_idppop, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1_idppop.png", maplevel1_idppop, width=4, height=3,units="in", dpi=300)
 ######################################################################
 
 #### Population school rank
@@ -244,7 +244,7 @@ maplevel1_classschool <-maplevel1_classschool + annotate("text", x = 40.4, y = 3
 maplevel1_classschool <-maplevel1_classschool + annotate("text", x = 40.4, y = 33.5,  size = 3, label = "TQ", hjust = 0)
 maplevel1_classschool <-maplevel1_classschool + annotate("text", x = 40.4, y = 33.25, size = 3, label = "WA", hjust = 0)
 
-ggsave("plot/mapchoro/maplevel1_classschool.png", maplevel1_classschool, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1_classschool.png", maplevel1_classschool, width=4, height=3,units="in", dpi=300)
 ######################################################################
 
 ####
@@ -299,7 +299,7 @@ maplevel1_commprivaterank <-maplevel1_commprivaterank + annotate("text", x = 40.
 maplevel1_commprivaterank <-maplevel1_commprivaterank + annotate("text", x = 40.4, y = 33.5,  size = 3, label = "TQ", hjust = 0)
 maplevel1_commprivaterank <-maplevel1_commprivaterank + annotate("text", x = 40.4, y = 33.25, size = 3, label = "WA", hjust = 0)
 
-ggsave("plot/mapchoro/maplevel1_commprivaterank.png", maplevel1_commprivaterank, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1_commprivaterank.png", maplevel1_commprivaterank, width=4, height=3,units="in", dpi=300)
 ######################################################################
 
 ####
@@ -354,7 +354,7 @@ maplevel1_commsettingrank<-maplevel1_commsettingrank+ annotate("text", x = 40.4,
 maplevel1_commsettingrank<-maplevel1_commsettingrank+ annotate("text", x = 40.4, y = 33.5,  size = 3, label = "TQ", hjust = 0)
 maplevel1_commsettingrank<-maplevel1_commsettingrank+ annotate("text", x = 40.4, y = 33.25, size = 3, label = "WA", hjust = 0)
 
-ggsave("plot/mapchoro/maplevel1_commsettingrank.png", maplevel1_commsettingrank, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1_commsettingrank.png", maplevel1_commsettingrank, width=4, height=3,units="in", dpi=300)
 ######################################################################
 
 ####
@@ -409,7 +409,7 @@ maplevel1_totalrank<-maplevel1_totalrank+ annotate("text", x = 40.4, y = 33.75, 
 maplevel1_totalrank<-maplevel1_totalrank+ annotate("text", x = 40.4, y = 33.5,  size = 3, label = "TQ", hjust = 0)
 maplevel1_totalrank<-maplevel1_totalrank+ annotate("text", x = 40.4, y = 33.25, size = 3, label = "WA", hjust = 0)
 
-ggsave("plot/mapchoro/maplevel1_totalrank.png", maplevel1_totalrank, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1_totalrank.png", maplevel1_totalrank, width=4, height=3,units="in", dpi=300)
 ######################################################################
 
 ####
@@ -464,7 +464,7 @@ maplevel1_composite<-maplevel1_composite+ annotate("text", x = 40.4, y = 33.75, 
 maplevel1_composite<-maplevel1_composite+ annotate("text", x = 40.4, y = 33.5,  size = 3, label = "TQ", hjust = 0)
 maplevel1_composite<-maplevel1_composite+ annotate("text", x = 40.4, y = 33.25, size = 3, label = "WA", hjust = 0)
 
-ggsave("plot/mapchoro/maplevel1_composite.png", maplevel1_composite, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1_composite.png", maplevel1_composite, width=4, height=3,units="in", dpi=300)
 ######################################################################
 
 
@@ -491,7 +491,7 @@ maplevel1_idpref <- maplevel1_idpref +
   geom_text(aes(label = short, x = Longitude_c, y = Latitude_c, group = group, hjust=0.5, vjust=-0.5), size = 2.5)+ #add labels at centroids
   ggtitle("Ratio IDPs / Refugees")      
 
-ggsave("plot/mapchoro/maplevel1_idpref.png", maplevel1_idpref, width=8, height=6,units="in", dpi=300)
+ggsave("plot/mapchoro/maplevel1_idpref.png", maplevel1_idpref, width=4, height=3,units="in", dpi=300)
 
 
 

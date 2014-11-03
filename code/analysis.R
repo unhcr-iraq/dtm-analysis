@@ -11,7 +11,8 @@ rm(master)
 # master <- read.csv('data/final_18082014_dtm_master.csv', header=F) master <-
 # read.csv('data/DTM_Dataset_-_01092014_final_0.csv', header=F) master_14092014 <-
 # read.csv('data/DTM_Dataset_14092014.csv', header=F)
-master <- read.csv("data/DTM_Dataset_28092014.csv", header = F)
+# read.csv("data/DTM_Dataset_28092014.csv", header = F)
+master <- read.csv("data/DTM_Dataset_26102014.csv", header = F)
 
 # master_or <- read.csv('data/DTM_Dataset_28092014.csv', header=F) label <- read.csv('data/label.csv')
 # names(master_or) <- label[,3] rm(label) rm(master_or) master_or$Master.Families2 <- as.numeric(master_or$Master.Families) test <- master$Master.Families -

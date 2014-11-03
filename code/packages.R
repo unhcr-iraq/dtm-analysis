@@ -29,7 +29,7 @@ packages <- c("ggplot2", # package for elegant data visualization using the Gram
               "raster","classInt","lubridate","date","gdata","gridExtra","scales",
               "ggthemes", ## load different custmised theme: excel, stata, economist, tufte, wall street journal...
               "xkcd", ## Style from the xkcd comics 
-              "formatR", "gWidgetsRGtk2" # used to format the code
+              "formatR" #, "gWidgetsRGtk2" # used to format the code
               #"XLConnect" ## Read and write excel files
 )
 if (length(setdiff(packages, rownames(installed.packages()))) > 0) {
@@ -66,8 +66,8 @@ library(gdata)
 library(gridExtra)
 library(scales)
 library(formatR)
-library(RGtk2)
-library(gWidgetsRGtk2)
+#library(RGtk2)
+#library(gWidgetsRGtk2)
 
 ## gui for Code reformatting
 ## tidy.gui('RGtk2')
