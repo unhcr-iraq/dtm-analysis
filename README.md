@@ -10,4 +10,4 @@ Dataset from http://iomiraq.net/dtm-page
 code/analysis.R source all the scripts.
 
 
-   
+ [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/unhcr-iraq/dtm-analysis/trend.png)](https://bitdeli.com/free "Bitdeli Badge")  
