@@ -2,9 +2,12 @@
 
 # interesting variables to look at are:
 
-# BIO5 = Max Temperature of Warmest Month BIO6 = Min Temperature of Coldest Month BIO10 = Mean Temperature of Warmest Quarter BIO11 = Mean Temperature of Coldest Quarter
-
-# BIO13 = Precipitation of Wettest Month BIO19 = Precipitation of Coldest Quarter
+# BIO5 = Max Temperature of Warmest Month 
+# BIO6 = Min Temperature of Coldest Month 
+# BIO10 = Mean Temperature of Warmest Quarter 
+# BIO11 = Mean Temperature of Coldest Quarter
+# BIO13 = Precipitation of Wettest Month 
+# BIO19 = Precipitation of Coldest Quarter
 
 # tmin = getData('worldclim', var='bio', res=0.5, lon=44, lat=32)
 
