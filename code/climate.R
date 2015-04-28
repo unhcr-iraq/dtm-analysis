@@ -1,4 +1,5 @@
-## Winterisation analysis based on bioclim dataset http://www.worldclim.org/ temperature data are in °C * 10. This means that a value of 231 represents 23.1 °C.
+## Winterisation analysis based on bioclim dataset http://www.worldclim.org/ 
+# temperature data are in °C * 10. This means that a value of 231 represents 23.1 °C.
 
 # interesting variables to look at are:
 
