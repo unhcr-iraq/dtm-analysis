@@ -12,6 +12,7 @@
 
 # tmin = getData('worldclim', var='bio', res=0.5, lon=44, lat=32)
 
+## Tiles can be downloaded here: http://www.worldclim.org/tiles.php
 
 bio5 <- raster("data/shp/bio5_17.tif", native = T)
 bio6 <- raster("data/shp/bio6_17.tif", native = T)
